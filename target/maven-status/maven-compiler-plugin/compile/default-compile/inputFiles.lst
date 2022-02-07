@@ -1,0 +1,13 @@
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/visao/TelaAtualizarSituacao.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/modelo/Aluno.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/visao/TelaPrincipal.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/visao/TelaListagemAlunos.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/controle/EnderecoControle.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/modelo/persistencia/EnderecoDAO.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/teste/TesteConexaoMySql.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/modelo/Endereco.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/controle/AlunoControle.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/visao/TelaCadastrarAluno.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/visao/TelaBuscarporSerie.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/modelo/persistencia/AlunoDAO.java
+/home/gdsant/Downloads/Curso Senac Programador de Sis./UC4/sistemaAlunos/src/main/java/modelo/persistencia/FabricaDeConexoes.java
