@@ -39,24 +39,28 @@ public class AlunoControle {
 
     /**
      * Realiza uma busca por alunos com um determinado nome.
-     * 
+     *
      * @param nome o nome ou parte do nome do(s) aluno(s) que se deseja(m)
      * buscar.
      * @return vetor com os alunos cujos nomes correspondem com o parâmetro
      * recebido.
      */
     public static Aluno[] buscarPorNome(String nome) throws Exception {
-        return null; // retorno temporário, falta implementar
+        if (nome.isEmpty()) {
+            return null;
+        }
+        
+        return AlunoDAO.buscarPorNome(nome);
     }
 
     // método estático listarTodos
-    public static Aluno[] listarTodos() throws Exception {        
+    public static Aluno[] listarTodos() throws Exception {
         return AlunoDAO.listarTodos();
     }
 
     /**
      * Faz alteração dos dados de um determinado aluno no banco de dados.
-     * 
+     *
      * @param a objeto da classe Aluno com os dados modificados, preservado o
      * id.
      * @return true: se os dados recebidos são válidos e se foi possível
